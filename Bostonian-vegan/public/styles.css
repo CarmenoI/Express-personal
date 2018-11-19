@@ -1,0 +1,14 @@
+body{
+  background: lime;
+  font-family: 'Poor Story', cursive;
+  text-align: center;
+}
+h1{
+  font-size: 100px;
+  color: indigo;
+}
+
+h3, h2{
+  margin-top: 40px;
+  color: grey;
+}
